@@ -1,1 +1,1 @@
-print('Master')
+print('Test')
