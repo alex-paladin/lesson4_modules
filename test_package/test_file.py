@@ -1,5 +1,3 @@
-#test row test_branch
-
 def common_letters(name1,name2):
     set1 = set(name1)
     set2 = set(name2)
@@ -22,4 +20,6 @@ b = input()
 
 print("Your and your friend's name contain",common_letters(a,b),'common letters')
 len_comparison(a,b)
+
+
 
